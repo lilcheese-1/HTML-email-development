@@ -1,0 +1,167 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Bitter" href="https://fonts.googleapis.com/css2?family=Bitter:wght@100;200;300;400;500;600;700"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Bitter, Arial, sans-serif" background-color="#ffffff" color="#5d7a88"></mj-all>
+      <mj-text align="center" color="#163a4f" font-family="Bitter" line-height="25px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/tYY3rCK/vacasa.jpg" alt="vacasa logo" border="0" padding="0"></mj-image>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding="0" font-size="15px" font-weight="500" letter-spacing="1.1px">
+          <p>This year, travelers got back out there to celebrate with loved<br>ones or seek out new cities. We've gathered up some homes our<br> guests loved most, from private lake houses to award-winning<br> architecture.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button font-family="Helvetica" background-color="#017e90" color="white" href="https://i.ibb.co/GMDg7TJ/canyon-pool.jpg"> Plan your next adventure </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/C7YR8PB/manson.jpg" href="https://www.vacasa.com/?utm_source=google&gaad_id=561190816275&utm_term=vacasa&utm_campaign=Vacasa+Brand+%7C+USA+%7C+Guest&utm_medium=cpc&utm_content=s|pkw|vacasa|pmt|e|pdv|c|&utm_campaignid=914997480&utm_adgroupid=79773099284&utm_adposition=&utm_physicalid=9028165&gclid=EAIaIQobChMIzc_fxp6M9QIVaRbUAR2QHAOeEAAYASAAEgJA0_D_BwE" width="250px" alt="vacasa" padding="0">
+        </mj-image>
+        <mj-image align="center" src="https://i.ibb.co/kM53rhy/wapato1.jpg" width="250px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/3pyKRtH/wapato2.jpg" alt="outdoor hot tub" width="250px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e6f2f5" width="550px" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/gDP0W6N/florida.jpg" alt="florida info" href="https://www.vacasa.com/?utm_source=google&gaad_id=561190816275&utm_term=vacasa&utm_campaign=Vacasa+Brand+%7C+USA+%7C+Guest&utm_medium=cpc&utm_content=s|pkw|vacasa|pmt|e|pdv|c|&utm_campaignid=914997480&utm_adgroupid=79773099284&utm_adposition=&utm_physicalid=9028165&gclid=EAIaIQobChMIzc_fxp6M9QIVaRbUAR2QHAOeEAAYASAAEgJA0_D_BwE" width="250px" alt="vacasa" padding="0">
+        </mj-image>
+        <mj-image align="center" src="https://i.ibb.co/R3bBqrB/florida2.jpg" alt="beachfront mansion" width="250px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/pzmTkzF/florida3.jpg" alt="palm on beach" width="250px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e6f2f5" width="550px" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/9VFg21Q/chilmark.jpg" alt="chilmark info" href="https://www.vacasa.com/?utm_source=google&gaad_id=561190816275&utm_term=vacasa&utm_campaign=Vacasa+Brand+%7C+USA+%7C+Guest&utm_medium=cpc&utm_content=s|pkw|vacasa|pmt|e|pdv|c|&utm_campaignid=914997480&utm_adgroupid=79773099284&utm_adposition=&utm_physicalid=9028165&gclid=EAIaIQobChMIzc_fxp6M9QIVaRbUAR2QHAOeEAAYASAAEgJA0_D_BwE" width="250px" alt="vacasa" padding="0">
+        </mj-image>
+        <mj-image align="center" src="https://i.ibb.co/DwQkYNs/chilmark2.jpg" alt="big pool" width="250px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/s9XwfxV/chilmark3.jpg" alt="cabin room" width="250px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e6f2f5" width="550px" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/fDMm5WG/maynardville.jpg" alt="chilmark info" href="https://www.vacasa.com/?utm_source=google&gaad_id=561190816275&utm_term=vacasa&utm_campaign=Vacasa+Brand+%7C+USA+%7C+Guest&utm_medium=cpc&utm_content=s|pkw|vacasa|pmt|e|pdv|c|&utm_campaignid=914997480&utm_adgroupid=79773099284&utm_adposition=&utm_physicalid=9028165&gclid=EAIaIQobChMIzc_fxp6M9QIVaRbUAR2QHAOeEAAYASAAEgJA0_D_BwE" width="250px" alt="vacasa" padding="0">
+        </mj-image>
+        <mj-image align="center" src="https://i.ibb.co/1XvDWgW/maynard-2.jpg" alt="big pool" width="250px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/SyWn2bT/maynard-3.jpg" alt="cabin room" width="250px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e6f2f5" width="550px" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/dpfyyvZ/palm-springs.jpg" alt="chilmark info" href="https://www.vacasa.com/?utm_source=google&gaad_id=561190816275&utm_term=vacasa&utm_campaign=Vacasa+Brand+%7C+USA+%7C+Guest&utm_medium=cpc&utm_content=s|pkw|vacasa|pmt|e|pdv|c|&utm_campaignid=914997480&utm_adgroupid=79773099284&utm_adposition=&utm_physicalid=9028165&gclid=EAIaIQobChMIzc_fxp6M9QIVaRbUAR2QHAOeEAAYASAAEgJA0_D_BwE" width="250px" alt="vacasa" padding="0">
+        </mj-image>
+        <mj-image align="center" src="https://i.ibb.co/jMYS3qS/palm-springs-2.jpg" alt="big pool" width="250px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.ibb.co/554bKFz/palm-springs-3.jpg" alt="cabin room" width="250px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#e6f2f5" width="550px" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#e5f2f5">
+        <mj-text align="left" font-family="Bitter" font-size="35px" font-weight="500" line-height="40px">
+          <p>Explore more guest favorites</p>
+        </mj-text>
+        <mj-button align="left" padding-top="0" font-family="Bitter" border="1px solid #108696" background-color="#ffffff" color="#108696" font-size="18px" href="https://www.vacasa.com/">See the List</mj-button>
+        <mj-image src="https://i.ibb.co/GMDg7TJ/canyon-pool.jpg" alt="canyon pool" align="center" padding-bottom="25px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100px">
+        <mj-image padding-bottom="20px" width="50px" src="https://i.ibb.co/tLh15Z6/vacasa-logo.png"href="https://www.vacasa.com">
+        </mj-image>
+      </mj-column>
+      <mj-column width="400px">
+        <mj-text font-size="20px" font-weight="700" padding-top="0">Download the Vacasa app </mj-text>
+        <mj-text font-size="13px" padding="0" font-weight="600">Browse thousands of vacations rentals and find your next getaway. Available for <a href="https://www.apple.com/itunes/" style="text-decoration:none;">iOS</a> and <a href="https://play.google.com/store" style="text-decoration:none;">Android</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%" padding="0">
+        <mj-table>
+          <tr style="list-style:none;line-height:1;">
+            <td><a href="https://www.youtube.com/" alt="youtube"><img src="https://i.ibb.co/n8919gG/youtube.png" width="45px"></img></a></td>
+            <td><a href="https://www.pinterest.com/" alt="youtube"><img src="https://i.ibb.co/5F7sRwF/pinterest.png" width="40px"></img></a></td>
+            <td><a href="https://www.instagram.com/" alt="youtube"><img src="https://i.ibb.co/Hd4wr57/instagram.png" width="40px"></img></a></td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="none">
+      <mj-column width="80%">
+        <mj-table>
+          <tr>
+            <td><a href="#" style="text-decoration:none;color:inherit;">Privacy Policy</a> </td>
+            <td width="10px">| </td>
+            <td><a href="#" style="text-decoration:none;color:inherit;">View in browser</a> </td>
+            <td width="10px">| </td>
+            <td><a href="#" style="text-decoration:none;color:inherit;">Manage preferences</a> </td>
+            <td width="10px">| </td>
+            <td><a href="#" style="text-decoration:none;color:inherit;">Unsubscribe</a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+         <mj-section padding="none">
+				<mj-column>
+           <mj-text>
+          Vacasa LLC | 850 NW 13th Ave., Portland, OR 97209
+          </mj-text>
+           </mj-column>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
