@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Spline Sans" href="https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300;400;500;600;700">
+    </mj-font>
+    <mj-attributes>
+      <mj-all font-family="Spline Sans, Arial, sans-serif" background-color="#ffffff" color="#7b7d7e"></mj-all>
+      <mj-text align="center" color="#7b7d7e" padding="0px" />
+      <mj-image padding="0px" align="center" />
+      <mj-section background-color="#ffffff"padding="0" />
+      <mj-button border-radius="2px" height="25px" width="200px" font-size="14px" background-color="#ff4c1d" color="#ffffff" padding="0px" />
+      <mj-column width="600px" />
+
+      </mj-column>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f1f1f1" align="center">
+    <!-- start header logo-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5ec8185fdc73e-1590171743.903.png" href="#" alt="stadia logo">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- end header logo-->
+    <!-- start main image -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5ed9b2bb46982-1591325371.2892.png" alt="elder scrolls image">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- end of main image -->
+    <!-- Stadia info -->
+    <mj-section background-color="#202125">
+      <mj-column background-color="#202125">
+        <mj-text font-family="Spline Sans" font-weight="400" font-size="23px" color="#ffffff" line-height="28px" letter-spacing="1px" padding-bottom="5px" padding-left="20px" padding-right="20px">
+          <p>The Elder Scrolls Online awaits.<br>Experience it for free with Stadia Pro.</p>
+        </mj-text>
+        <mj-text font-size="13px" line-height="20px" padding-left="20px" padding-right="20px" font-weight="300" color="white">
+          <p>Play the award-winning RPG right now - plus games like Panzer Dragoon.<br>Remake, SUPERHOT, and Little Nightmare.</p>
+        </mj-text>
+        </mj-button>
+      </mj-column>
+      <mj-column background-color="#202125">
+        <mj-button text-align="center"padding-bottom="35px" href="#"font-size="15px"font-weight="400"border-radius="5px"height="5px"width="180px">
+          Start playing today
+          </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- end Stadia info -->
+    <!-- start tiny Stadia logo -->
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://stadia.google.com/" src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5e41a019543f7-1581359129.3451.png" width="35px" padding-top="20px" alt="stadia logo">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="600" padding-top="20px"padding-bottom="10px">
+          <span>Follow Stadia for the latest.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- end tiny Stadia logo -->
+    <!-- start social icons -->
+    <mj-section>
+      <mj-column width="47%" vertical-align="top">
+        <mj-table>
+          <tr align="center" style="list-style: none;line-height:1">
+            <td> <a href="#">
+                <img width="22px" src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5d7a4e569784f-1568296534.6206.png" alt="twitter" />
+              </a> </td>
+            <td> <a href="#">
+                <img width="22px" src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5d7a513bb8f05-1568297275.7575.png" alt="facebook" />
+              </a> </td>
+            <td> <a href="#">
+                <img width="22px" src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5d7a515035f67-1568297296.221.png" alt="youtube"/>
+              </a> </td>
+            <td> <a href="#">
+                <img width="22px" src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5e596944c1f91-1582917956.7945.png" alt="reddit" />
+              </a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- end social icons -->
+    <!-- start footer -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="9px" line-height="14px" font-weight="500">
+          <p>&#169 2020 Google LLC<br>1600 Ampitheatre Parkway.<br>Mountain View, CA 94043
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="8px" line-height="13px" font-weight="500"padding-bottom="20px"padding-left="8px"padding-right="8px">
+          This email was sent to <a color="#99bdf9"href="#"style="text-decoration:none">yourname@email.com</a> because you indicated that you'd like to receive gaming news and offers from Google.<br> Click <a color="#99bdf9"href="#" style="text-decoration:none">here</a> to unsubcribe from these emails.
+        </mj-text>
+        </mj-column>
+        <mj-column>
+           <mj-image padding-bottom="50px"padding-top="0"src="https://www.emailimagecdn4htg.com/nqiu74c3vp/en_us/images/5e5d1b31c288b-1583160113.7968.png" alt="border graphic"></mj-image>
+        </mj-column>
+    </mj-section>
+    <!-- end footer -->
+  </mj-body>
+</mjml>
