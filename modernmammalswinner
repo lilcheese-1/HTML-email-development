@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500"></mj-font>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all />
+      <mj-text align="center" padding="0px" />
+      <mj-image />
+      <mj-section background-color="#f9f1de" padding="0px" />
+      <mj-column />
+      <mj-button />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f1f1f1" align="center">
+    <!-- start header logo -->
+    <mj-section>
+      <mj-column background-color="#f9f1de">
+        <mj-image align="center" width="200px" src="https://d3k81ch9hvuctc.cloudfront.net/company/H7t7vU/images/d78a0746-bd32-4b35-b6bc-9d74ed03490a.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- start header logo -->
+    <!-- start bottle image -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding-left="0" padding-right="0" padding-bottom="0" src="https://d3k81ch9hvuctc.cloudfront.net/company/H7t7vU/images/faf11d25-ff68-4022-9bc8-bed01dc513c6.jpeg">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- end bottle image -->
+    <!-- start congrats info -->
+    <mj-section>
+      <mj-column background-color="#0a1725">
+        <mj-table font-size="25px" font-family="Roboto" line-height="30px" color="#f9f1de">
+          <tr align="center">
+            <td><b>Congratulations to our second winner<br> Darth Vader last week. </td>
+          </tr>
+        </mj-table>
+        <mj-table align="center" font-size="19px" font-family="Roboto" line-height="30px" color="#f9f1de" padding-left="20px" padding-right="20px">
+          <tr>
+            <td align="center">
+              <p>We're picking one more winner this week; this is your last chance. Use the code <b>SQUAD</b> to grab 5 bottles for $100 as last minute holiday gifts for friends/fam. And you know the drill, we'll make sure one more person who buys this week is stocked up for <b>free</b> for all of 2022.<br><br>Make sure to order by 12/10 to ensure we can deliver by the 24th.</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- end congrats info -->
+    <!-- start squad button -->
+    <mj-section>
+      <mj-column padding-top="30px" background-color="#0a1725">
+        <mj-button href="#" align="center" font-size="18px" background-color="#df4b02" border-radius="25px" height="25px">USE CODE SQUAD </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- end squad button -->
+    <!-- start wavy pattern -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://d3k81ch9hvuctc.cloudfront.net/company/H7t7vU/images/e98f5565-3d26-417c-926f-9c8f76254216.jpeg">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- end wavy pattern -->
+    <!-- start social icons -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top">
+        <mj-table>
+          <tr align="center" style="list-style: none;line-height:1">
+            <td> <a href="#">
+                <img width="50px" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtle/instagram_96.png" alt="twitter" />
+              </a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="20%" vertical-align="top">
+        <mj-table>
+          <tr align="center" style="list-style: none;line-height:1">
+            <td> <a href="#">
+                <img width="50px" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtle/facebook_96.png
+" alt="facebook" />
+              </a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- end social icons -->
+    <!-- start footer -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-table font-size="15px"color="#463e60"line-height="35px">
+          <tr align="center">
+            <td>support@modernmammals.com</td>
+          </tr>
+          <tr align="center">
+            <td> &#169 2020 | MODERN MAMMALS </td>
+          </tr>
+        </mj-table>
+        <mj-table padding-bottom="30px"color="#9d9e9e">
+          <tr align="center">
+            <td>No longer want to recieve these emails? <a href="#"style="text-decoration:none">Unsubscribe.</a> </td>
+            </tr>
+            <tr align="center">
+          <td>Modern Mammals, Inc. 223 Bedford Ave Ste A #2017 Brooklyn, NY 11211 </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- end footer -->
+  </mj-body>
+</mjml>
