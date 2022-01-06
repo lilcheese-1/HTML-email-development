@@ -30,13 +30,31 @@
     <!-- end header section -->
     <!-- start navigation links -->
     <mj-section>
-      <mj-column width="50%">
+      <mj-column width="25%">
         <mj-table padding="0">
           <tr align="center">
             <th><a href="#" style="text-decoration:none; color:#000000;">New!</a></th>
+          </tr>
+        </mj-table>
+      </mj-column>
+            <mj-column width="25%">
+        <mj-table padding="0">
+          <tr align="center">
             <th><a href="#" style="text-decoration:none; color:#000000;">Clothing</a></th>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-table padding="0">
+          <tr align="center">
             <th><a href="#" style="text-decoration:none; color:#000000;">Drinkware</a></th>
-            <th><a href="#" style="text-decoration:none; color:#000000;">All</a></th>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-table padding="0">
+          <tr align="center">
+            <th><a href="#" style="text-decoration:none; color:#000000;">ALL</a></th>
           </tr>
         </mj-table>
       </mj-column>
